@@ -1,1 +1,1 @@
-<img align="center" src="./img/nice.jpg" />
+<img align="center" src="./nice.jpg" />
